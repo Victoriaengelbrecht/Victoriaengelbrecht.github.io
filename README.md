@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+title: Hello everyone and welcome to my page. I wanna introduce you to Github.
+description: remember my website to see my projects.
+
 You can use the [editor on GitHub](https://github.com/Victoriaengelbrecht/Victoriaengelbrecht.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
